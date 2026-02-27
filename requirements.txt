@@ -1,0 +1,6 @@
+pathway[xpack-llm]
+python-dotenv
+groq
+pdf2image
+pypdf
+unstructured[pdf]
